@@ -1,4 +1,4 @@
 HGNChelper
 ==========
 
-Handy functions for working with HGNC gene symbols
+Handy functions for working with HGNC gene symbols.
